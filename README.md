@@ -196,4 +196,5 @@ Committing `cxt*.md` files gives you **requirement traceability**: you can alway
 
 - [`CLAUDE.md`](./CLAUDE.md) — paste-ready workflow guide for Claude
 - [`context-instruction.md`](./context-instruction.md) — paste into any Claude session to activate the workflow
+- [`ai_handover_protocol.md`](./ai_handover_protocol.md) — paste into any external ai session to activate the workflow
 - [`Examples.md`](./Examples.md) — real before/after examples
