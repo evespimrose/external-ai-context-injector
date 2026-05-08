@@ -198,4 +198,5 @@ docs/
 
 - [`CLAUDE.md`](./CLAUDE.md) — Claude에 붙여넣기만 하면 되는 워크플로 가이드
 - [`context-instruction.md`](./context-instruction.md) — Claude 컨텍스트에 붙여넣으면 워크플로 즉시 활성화
+- [`ai_handover_protocol.md`](./ai_handover_protocol.md) — 외부 AI 컨텍스트에 붙여넣으면 워크플로 즉시 활성화
 - [`Examples.md`](./Examples.md) — 실제 before/after 예시
