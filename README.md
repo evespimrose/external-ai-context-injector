@@ -4,20 +4,6 @@
 
 ---
 
-## Repository Name Suggestions
-
-Choose any of these for publishing:
-
-| # | Name | Rationale |
-|---|------|-----------|
-| 1 | `trae-claude-context-workflow` | Exact tool chain, instantly readable |
-| 2 | `external-ai-context-injector` | Tool-agnostic, describes the pattern |
-| 3 | `structured-context-token-saver` | Emphasises the core benefit |
-| 4 | `ai-context-bridge-workflow` | Highlights the bridging role |
-| 5 | `doc-context-driven-development` | Mirrors TDD naming convention |
-
----
-
 ## What is This?
 
 A two-AI collaboration pattern that **dramatically reduces Claude's conversation-token consumption** by offloading requirement structuring to an external AI (Trae, GPT-4o, Gemini, etc.) and feeding the result into Claude via a lightweight file-reference skill.
